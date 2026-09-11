@@ -2,6 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22712731.svg)](https://doi.org/10.5281/zenodo.22712731)
 
 The `crimedatasets` package provides a curated collection of crime-related datasets from around the world, designed for data analysis, criminology research, and education in Python.
 
